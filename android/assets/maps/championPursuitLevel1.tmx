@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="left-down" width="20" height="80" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="custom_tileset_1" tilewidth="16" tileheight="16">
+  <image source="../tileSets/custom_tileset_1.png" width="144" height="48"/>
+ </tileset>
+ <layer name="grass" width="20" height="80">
+  <data encoding="base64" compression="zlib">
+   eJztw8EJAAAMA6H7Z/99u0dRcNVUVVVVVVUfPTTkRME=
+  </data>
+ </layer>
+ <layer name="trees" width="20" height="80">
+  <data encoding="base64" compression="zlib">
+   eJzt2TEOgCAMQNEO6oZs6v1PSkngBL9u/ycNnQhvpkdEy7lzesH+5Tw5b9F+RV3HemdV21uVXpZell6WXpZell6WXpZell6WXpZell6WXpZell6WXpZell7WX955nutusm9v1X/F9A665gzD
+  </data>
+ </layer>
+ <layer name="rocks" width="20" height="80">
+  <data encoding="base64" compression="zlib">
+   eJzt1cEJAAAIAzHdf2lxAdGfjwQ6QrkIAGAjjwOANnVBV+C36x/9FwB+Kd2XACY=
+  </data>
+ </layer>
+</map>
